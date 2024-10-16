@@ -13,7 +13,7 @@
 
 * My raw data cleaning and model fitting is in the source file, `econ187_proj2_source.R`. The Rmarkdown file `econ187_proj2.Rmd` has the formatting and structuring of the report `econ187_proj2.pdf`. I recommend focusing on either the source file or the final PDF, as those give the most information about the methodology/findings.
 
-* The primary purpose of this project is to provide policy-makers with a more nuanced view of the factors---particularly economic---which characterize violent crime. This project is meant as a *descriptive* tool, rather than a *prescriptive* guide to violent crime reduction.
+* The primary purpose of this project is to provide policy-makers with a more nuanced view of the factors--particularly economic--which characterize violent crime. This project is meant as a *descriptive* tool, rather than a *prescriptive* guide to violent crime reduction.
 
 ## Models
 
